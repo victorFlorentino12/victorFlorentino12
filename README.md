@@ -17,5 +17,5 @@
 [![ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)]()
 
 ## Contact
-#### Florentinoalmeidavc@outlook.com
-#### (81) 99686-4985
+#### victor.florentino.almeida@gmail.com
+#### +55 (81) 99686-4985
